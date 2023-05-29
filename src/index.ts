@@ -1,3 +1,4 @@
-import { doSomething } from "./doSomething";
+import 'dotenv/config';
+import config from 'config';
 
-console.log(doSomething());
+console.log(config);

@@ -1,0 +1,4 @@
+youtube_query:
+  q: 'cats and dogs'
+  order: 'date'
+  api_key: ''
